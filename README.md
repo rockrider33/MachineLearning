@@ -1,1 +1,3 @@
 # MachineLearning
+
+Consists of machine learning in R, mostly solutions given by me for kaggle competitions...
